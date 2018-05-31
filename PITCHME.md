@@ -1,10 +1,11 @@
-# HOOP 
+# hoopCMS
 
 CMS система для колец сайтов
 
 ---
 
-### Flux Design
+## История
+### hoopCMS v 1.0
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
