@@ -1,6 +1,6 @@
-# Flux 
+# HOOP 
 
-An application architecture for React
+CMS система для колец сайтов
 
 ---
 
