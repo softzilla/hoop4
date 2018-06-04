@@ -11,9 +11,7 @@ CMS система для колец сайтов
 - Кольцо сайтов дилеров Jaguar и LandRover (работает_
 - Кольцо сайтов Acura (закрыт)
 
-Технологии:
-- Django
-- PostgreSQL
+Технологии: Django, PostgreSQL
 
 ---
 
