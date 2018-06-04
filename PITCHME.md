@@ -4,7 +4,8 @@ CMS система для колец сайтов
 
 ---
 
-## История - hoopCMS v 1.0
+## История 
+### hoopCMS v1.0
 - Проекты: Кольцо сайтов дилеров Jaguar и LandRover
 - Технологии: Django, PostgreSQL
 
