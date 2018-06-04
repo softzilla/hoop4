@@ -6,6 +6,9 @@ CMS система для колец сайтов
 
 ## История
 ### hoopCMS v 1.0
+#### Проект: Кольцо сайтов дилеров Jaguar и LandRover
+#### Клиент: Jaguar Land Rover
+
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
